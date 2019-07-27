@@ -1,0 +1,1 @@
+So in this case, all we did was reduce the number of times we multiplied by 3 and we got 3 multiplied by itself 4 times. Likewise you can also see that 7 threes on top - 3 threes from bottom = 4 threes on top. 

@@ -1,0 +1,1 @@
+The last thing  you should know is that when you choose to flip a bracketed fraction to get rid of the negative in an exponent, it doesn't actually the change any negative exponent inside the bracket unless you choose to flip it again.

@@ -1,0 +1,1 @@
+Now because of the way division works, we can cross out 3 threes from the top and 3 three from the bottom and we're left with 4 threes at the top.

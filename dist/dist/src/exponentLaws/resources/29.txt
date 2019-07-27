@@ -1,0 +1,1 @@
+1! We already know that 4 is equal to 2 squared. Using the quotient law we can see that the quotient will be 2 to the 0th power. Therefore 2 to 0th power is 1.And remember, this works with any base.

@@ -1,0 +1,1 @@
+Remember that 1 should be equal to 2 to the 0th power. And according to the quotient law, the quotient of these two should be -2(0 - 2 = -2).

@@ -1,0 +1,1 @@
+If we remove the bracket we can see it's just 2 multiplied by itself 6 times.It seems all we really did was increase the number of times that we multiplied 2.

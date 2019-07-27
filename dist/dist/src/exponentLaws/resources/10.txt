@@ -1,0 +1,1 @@
+Now if we chose to evaluate the expression on the top and bottom, we get 2187 / 27 = 81. Interesting because 81 just happens to be 3 to the 4th power. Do you see what's going on here?

@@ -1,0 +1,1 @@
+To understand how these laws work, we'll work through an example.Remember that exponents are repeated multiplication of a number a bunch of times. The number being repeated is called the base and the little number floating beside the base is called a power.

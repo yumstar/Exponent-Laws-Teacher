@@ -1,0 +1,1 @@
+So the second law of exponents(quotient law) is that one exponential expression divided by another expression with the same base is equal to the base to the power of the difference of the two exponents.

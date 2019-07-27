@@ -1,0 +1,1 @@
+First of all,  it's intresting to notice  a bracketed expression that has two different numbers multiplied by each other to a particular power is equal to the product of the two numbers each to the particular power and also equal to the product of both numbers to that power. See the example above.

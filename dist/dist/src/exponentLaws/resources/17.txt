@@ -1,0 +1,1 @@
+4 squared as we know is 16 (4x4).  But now, let's see what happens if we chose to expand the expression before we chose to evaluate it.
